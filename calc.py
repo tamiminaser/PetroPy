@@ -5,3 +5,6 @@ def acoustic_impedance(rho, vp):
     Calculate acoustic impedance.
     """
     return rho*vp
+
+def desnity():
+    return pass
