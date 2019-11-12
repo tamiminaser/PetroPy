@@ -11,3 +11,6 @@ def desnity():
 
 def friction():
     return pass
+
+def hardness():
+    return pass
