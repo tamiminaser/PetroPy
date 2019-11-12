@@ -9,5 +9,5 @@ def acoustic_impedance(rho, vp):
 def desnity():
     return pass
 
-def hardness():
+def friction():
     return pass
